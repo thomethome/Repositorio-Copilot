@@ -1,8 +1,10 @@
 name: Automação de Registro Diário
 
 on:
+  workflow_dispatch:  # Permite rodar manualmente
   schedule:
-    - cron: '0 0 * * *'  # Executa diariamente à meia-noite UTC
+    - cron: '0 0 * * *'  # Executa automaticamente à meia-noite UTC
+
 
 jobs:
   criar_issue:
