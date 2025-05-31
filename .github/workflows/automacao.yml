@@ -1,1 +1,26 @@
+name: Automação de Registro Diário
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite UTC
+
+jobs:
+  criar_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+        
+      - name: Configurar Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Executar script de automação
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python automacao_registro.py
 
