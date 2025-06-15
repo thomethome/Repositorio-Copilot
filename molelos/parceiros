@@ -1,1 +1,73 @@
+<!-- MODELO: Parceiro - Palácio Tomé -->
+<div style="margin-bottom: 40px; padding: 40px 20px; background-color: #f4f4f4; border-radius: 8px; border: 1px solid #ddd; text-align: center">
+
+  <!-- LOGO -->
+  <img src="https://olixoorg.wordpress.com/wp-content/uploads/2025/06/captura-de-tela-2025-06-14-181059.png" alt="Logo Palácio Tomé" style="max-width: 220px; margin-bottom: 10px">
+
+  <!-- TÍTULO CENTRAL -->
+  <h2 style="font-size: 1.9rem; margin-bottom: 15px">
+    Palácio Tomé – Consultoria e Assessoria Jurídica
+  </h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 40px; text-align: left">
+
+    <!-- FOTO KEILLE -->
+    <div style="flex: 1; max-width: 250px; text-align: center">
+      <img src="https://olixoorg.wordpress.com/wp-content/uploads/2025/06/dra_keille.webp" alt="Drª Keille Costa Ferreira" style="width: 100%; border-radius: 8px">
+      <p style="margin-top: 8px; font-weight: bold">Drª Keille Costa Ferreira</p>
+
+      <!-- VASO DE FLORES ESQUERDO -->
+      <div style="margin-top: 5px">
+        <img src="https://olixoorg.wordpress.com/wp-content/uploads/2025/06/images.jpg" alt="Vaso de flores" style="width: 100px; height: auto; border-radius: 8px">
+      </div>
+    </div>
+
+    <!-- TEXTO CENTRAL -->
+    <div style="flex: 2; max-width: 600px; padding: 0 20px; text-align: justify; margin-top: -10px">
+      <p style="margin-bottom: 16px">
+        Referência em soluções jurídicas com responsabilidade e ética, o <strong>Palácio Tomé</strong> é parceiro institucional do OLixo.org. Liderado pelas advogadas <em>Drª Keille Costa Ferreira</em> e <em>Drª Wendi Palácio Tomé</em>, o escritório oferece suporte em diversas frentes do Direito, contribuindo para decisões seguras, conscientes e sustentáveis.
+      </p>
+
+      <h4 style="margin-bottom: 8px">Áreas de atuação:</h4>
+      <div style="columns: 2; gap: 30px; font-size: 0.96rem">
+        <ul style="margin: 0; padding-left: 5px">
+          <li>Direito Empresarial</li>
+          <li>Direito Trabalhista</li>
+          <li>Direito Tributário</li>
+          <li>Direito Civil</li>
+          <li>Direito Falimentar</li>
+          <li>Direito Imobiliário</li>
+          <li>Direito do Consumidor</li>
+          <li>Direito Administrativo</li>
+          <li>Direito Ambiental</li>
+        </ul>
+      </div>
+
+      <!-- LINK PARA O SITE -->
+      <p style="margin-top: 16px; text-align: center">
+        <a href="https://palaciotome.adv.br/" target="_blank">Acesse o site oficial</a>
+      </p>
+    </div>
+
+    <!-- FOTO WENDI -->
+    <div style="flex: 1; max-width: 250px; text-align: center">
+      <img src="https://olixoorg.wordpress.com/wp-content/uploads/2025/06/dra.-wendi.webp" alt="Drª Wendi Palácio Tomé" style="width: 100%; border-radius: 8px">
+      <p style="margin-top: 8px; font-weight: bold">Drª Wendi Palácio Tomé</p>
+
+      <!-- VASO DE FLORES DIREITO -->
+      <div style="margin-top: 20px">
+        <img src="https://olixoorg.wordpress.com/wp-content/uploads/2025/06/images-1.jpg" alt="Vaso de flores" style="width: 100px; height: auto; border-radius: 8px">
+      </div>
+    </div>
+
+  </div>
+
+  <!-- FRASE FINAL -->
+  <p style="margin-top: 20px; font-weight: bold; text-align: center; font-size: 1.1rem; line-height: 1.4">
+    “Transformar o mundo começa com um gesto de cuidado.”
+  </p>
+</div>
+
+<!-- LINHA DIVISÓRIA -->
+<hr style="border: none; border-top: 1px solid #ccc; margin: 60px 0">
 
